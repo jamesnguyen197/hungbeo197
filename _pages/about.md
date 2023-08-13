@@ -19,7 +19,7 @@ comments: true
 
 <p>Nếu bạn muốn mình trải nghiệm, hay muốn mình chia sẻ chủ đề gì, bạn bing cho mình để mình thử trải nghiệm và chia sẻ nhé!!</p>
 
-<a target="_blank" href="https://forms.gle/mLTqemYJkrvY2CJRA" class="btn btn-danger">Bing ở đây</a> <a target="_blank" href="{{site.baseurl}}/index.html" class="btn btn-warning">Trang chủ</a>
+<a target="_blank" href="https://forms.gle/mLTqemYJkrvY2CJRA" class="btn btn-danger">Bing ở đây</a> <a href="{{site.baseurl}}/index.html" class="btn btn-warning">Trang chủ</a>
 
 </div>
 </div>
