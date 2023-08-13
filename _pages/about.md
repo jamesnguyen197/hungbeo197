@@ -17,9 +17,9 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <img class="shadow-lg" src="{{site.baseurl}}/assets/images/AboutMe.png" alt="jekyll template mediumish" />
 
-<p> NEu .</p>
+<p>Nếu bạn muốn đóng góp, muốn mình trải nghiệm hay muốn mình chia sẻ chủ đề gì, bạn bing cho mình để mình thử trải nghiệm và chia sẻ nhé!.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://forms.gle/mLTqemYJkrvY2CJRA" class="btn btn-danger">Bing ở đây</a> <a target="_blank" href="{{site.baseurl}}/index.html" class="btn btn-warning">Trang chủ</a>
 
 </div>
 </div>
