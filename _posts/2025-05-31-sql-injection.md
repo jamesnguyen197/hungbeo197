@@ -4,6 +4,7 @@ title:  "Từng bước khởi động vào hệ thống Linux"
 author: hungbeo197
 categories: [ tech, linux ]
 image: assets/images/2017/05-17-linux-banner.jpg
+comments: false
 ---
 Gần đây, do yêu cầu của khách hàng, mình phải update OS (hệ điều hành) liên tục. Dạo gần đây, mình khá là chú ý đến cách hoạt động của Linux. Và đặc biệt, có rất nhiều những hệ thống nhỏ, thiết bị nhỏ xung quanh mình cũng sử dụng cơ chế hoạt động của Linux.
 

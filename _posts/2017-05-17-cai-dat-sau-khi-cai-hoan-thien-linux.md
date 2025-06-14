@@ -4,6 +4,7 @@ title:  "Cài đặt sau khi cài hoàn thiện Linux"
 author: hungbeo197
 categories: [ tech, linux ]
 image: assets/images/2017/05-17-linux-banner.jpg
+comments: false
 ---
 Chỉnh thời gian Windows và Linux cùng chạy một lúc
 ```bash
