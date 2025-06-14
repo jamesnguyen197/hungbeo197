@@ -36,7 +36,7 @@ GRUB khi hoạt động được chia thành **2 stage** chính:
 * Vị trí: MBR (đối với BIOS) hoặc EFI System Partition (ESP) (đối với UEFI).
 * Chức năng: rất nhỏ (~512 byte), chỉ để tìm và nạp Stage 2.
 
-    ![BootloaderState1](2.Stage1bootloader.png)
+    ![BootloaderState1](../assets/images/2025/2.Stage1bootloader.png)
 
     Mình lấy một hình ở trên mạng. Bạn có thể thấy hệ thống trên đang chạy ở UEFI mode. Và dung lượng của EFI System Partition vô cùng nhỏ. Trong đó chứa nhưng file cần thiết để chạy và nạp State 2.
 
@@ -49,7 +49,7 @@ GRUB khi hoạt động được chia thành **2 stage** chính:
 
 Bootloader có nhiệm vụ tải nhân Linux (hay còn gọi là kernel) vào trong bộ nhớ. Và nếu máy tính của bạn có nhiều hệ điều hành, bạn có thể thấy được menu GRUB như hình dưới đây.
 
-![MenuGrub](3.Menugrub.png)
+![MenuGrub](../assets/images/2025/3.Menugrub.png)
 
 ## **3. Kernel (nhân Linux)**
 GRUB sẽ tải **kernel** cùng với **initramfs** (bộ nhớ ảo tạm thời). Sau đó, Kernel quản lý toàn bộ phần cứng và bắt đầu quá trình khởi tạo hệ thống. Sau đó, kernel chuyển quyền điều khiển cho init process.
