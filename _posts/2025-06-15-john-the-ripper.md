@@ -2,7 +2,7 @@
 layout: post
 title:  "John the Ripper - công cụ crack mật khẩu trên Linux"
 author: hungbeo197
-categories: [ tech, linux ]
+categories: [ tech, security ]
 image: assets/images/2025/2.JohntheRipper/JohntheRipper.png
 comments: false
 ---
