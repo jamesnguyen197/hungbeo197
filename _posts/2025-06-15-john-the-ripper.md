@@ -3,7 +3,7 @@ layout: post
 title:  "John the Ripper - công cụ crack mật khẩu trên Linux"
 author: hungbeo197
 categories: [ tech, linux ]
-image: assets/images/2017/05-17-linux-banner.jpg
+image: assets/images/2025/2.JohntheRipper/JohntheRipper.png
 comments: false
 ---
 John the Ripper, nghe rất quen thuộc. Nếu bạn là một tín đồ tìm hiểu về những câu chuyện trinh thám, hay tìm hiểu hàng loạt về những vụ án kinh dị từ thời xưa thì chắc hẳn bạn cũng biết Jack the Ripper. 
